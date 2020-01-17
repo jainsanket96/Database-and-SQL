@@ -1,0 +1,13 @@
+SQL and Database 
+Database is any collection of related information.
+DBMS (Database Management Systems ) is a special software program that helps users
+create and maintain a database
+CRUD create read update and delete
+Relational databases (SQL)
+Non relational databases (noSQL)
+SQL is the language for interacting with databases
+Tables and keys
+Columns(attribute) and Rows(horizontal entry)
+Primary key(uniquely identify a row)
+Foreign key(used to link two database tables) stores primary key of another table
+Composite key (two attributes)
